@@ -1,16 +1,16 @@
 # Jarrad's Sticker Collection
 
-- Album 1
+- Set 1
   - [ ] Sticker 1
   - [ ] Sticker 2
   - [ ] Sticker 3
   - [ ] ...
-- Album 2
+- Set 2
   - [ ] Sticker 1
   - [ ] Sticker 2
   - [ ] Sticker 3
   - [ ] ...
-- Album 3
+- Set 3
   - [ ] Sticker 1
   - [ ] Sticker 2
   - [ ] Sticker 3
