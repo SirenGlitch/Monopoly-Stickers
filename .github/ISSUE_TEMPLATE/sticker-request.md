@@ -1,7 +1,7 @@
 ---
 name: Sticker Request
 about: Request a sticker
-title: '[REQUEST]'
+title: "[REQUEST]"
 labels: ''
 assignees: ''
 
