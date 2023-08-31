@@ -1,18 +1,212 @@
 # Jarrad's Sticker Collection
 
-- Set 1
-  - [ ] Sticker 1
-  - [ ] Sticker 2
-  - [ ] Sticker 3
-  - [ ] ...
-- Set 2
-  - [ ] Sticker 1
-  - [ ] Sticker 2
-  - [ ] Sticker 3
-  - [ ] ...
-- Set 3
-  - [ ] Sticker 1
-  - [ ] Sticker 2
-  - [ ] Sticker 3
-  - [ ] ...
-- ...
+- Adventures of Thor
+  - [ ] Little God
+  - [ ] Almost There
+  - [ ] Asgard
+  - [ ] Mjolnir
+  - [ ] God of Thunder
+  - [ ] Hold Your Goats
+  - [ ] Colossal
+  - [ ] Flame Bridge
+  - [ ] Norse Adventure (untradable)
+- The Argonauts
+  - [ ] Arrangements
+  - [ ] Hero Workout
+  - [ ] Hero at Heart
+  - [ ] Golden Fleece
+  - [ ] Shipwrights
+  - [ ] The Argo
+  - [ ] Lemnos
+  - [ ] Siren Calls
+  - [ ] Bronze Giant (untradable)
+- Bake-Danuki
+  - [ ] Japanese Style
+  - [ ] Curious Danuki
+  - [ ] Mimics
+  - [ ] I'll take it!
+  - [ ] Night Chase
+  - [ ] Classy Thief
+  - [ ] Sweet Home
+  - [ ] The Missing Hat
+  - [ ] Trickster! (untradable)
+- Romulus and Remus
+  - [ ] Adrift
+  - [ ] Lupa Capitolina
+  - [ ] Wolfie Time
+  - [ ] In The Woods
+  - [ ] The Herdsman
+  - [ ] Golden Seat
+  - [ ] Bird Gazing
+  - [ ] King of Rome
+  - [ ] The Eternal City (untradable)
+- Robin Hood
+  - [ ] Major Oak
+  - [ ] On Point!
+  - [ ] Bullseye
+  - [ ] Bad News
+  - [ ] Tax Time
+  - [ ] Sneaking
+  - [ ] Jackpot!
+  - [ ] Goodwill
+  - [ ] Wedding Bells (untradable)
+- Trojan Horse
+  - [ ] Trojan Wall
+  - [ ] Greek Affairs
+  - [ ] Master Plan
+  - [ ] Eureka!
+  - [ ] Team Work
+  - [ ] Troy Story
+  - [ ] Hide & Seek
+  - [ ] Secret Gift
+  - [ ] Surprise! (untradable)
+- String of Fate
+  - [ ] What's This
+  - [ ] Invisible Fate
+  - [ ] True Love
+  - [ ] Oh My!
+  - [ ] Entwined
+  - [ ] Child's Play
+  - [ ] Arranged Future
+  - [ ] Destiny
+  - [ ] Forever Bond (untradable)
+- Ulysses' Travels
+  - [ ] Oddyssey Trip
+  - [ ] Mount Sizzle
+  - [ ] Looks Comfy
+  - [ ] I See You
+  - [ ] Puff God
+  - [ ] Circe's Farm
+  - [ ] Shell-o!
+  - [ ] Ithaca
+  - [ ] Homecoming (untradable)
+- Pied Piper
+  - [ ] Hamelin
+  - [ ] Mousetache
+  - [ ] Rat-Packed!
+  - [ ] Furry Problem
+  - [ ] Say Squeak!
+  - [ ] Blow It!
+  - [ ] Recital
+  - [ ] Lockstep
+  - [ ] Micest Home (untradable)
+- El Dorado
+  - [ ] Uncharted
+  - [ ] Let's Cruise
+  - [ ] Set Up Camp
+  - [ ] Who's There?
+  - [ ] Wild Ride
+  - [ ] Lost Temple
+  - [ ] El Dorado
+  - [ ] Tricky Business
+  - [ ] Happy Trading (untradable)
+- The Great Race
+  - [ ] On Your Mark
+  - [ ] Small Fight
+  - [ ] Almost There
+  - [ ] A Little Help
+  - [ ] Hissterical!
+  - [ ] Choir Work
+  - [ ] Splashing!
+  - [ ] Boaring
+  - [ ] Chinese Zodiac (untradable)
+- The Lost City
+  - [ ] Great Barrier
+  - [ ] Atlantis City
+  - [ ] Poseidon
+  - [ ] Sirens Den
+  - [ ] Sea Secrets
+  - [ ] Seashell Seat
+  - [ ] Coral Castle
+  - [ ] Fin-tastic!
+  - [ ] Dive In! (untradable)
+- King Authur
+  - [ ] Future King
+  - [ ] Wizarding
+  - [ ] Merlin's Test
+  - [ ] Excalibur
+  - [ ] Arturic Crown
+  - [ ] Knight Tale
+  - [ ] Happily Ever After
+  - [ ] Lady of the Lake
+  - [ ] Camelot (untradable)
+- Paul Bunyan
+  - [ ] Great Find!
+  - [ ] Cut It Out
+  - [ ] A Big Step
+  - [ ] Grand Bunyan
+  - [ ] Lumberjack!
+  - [ ] Nap Time
+  - [ ] Footprints
+  - [ ] Hay There!
+  - [ ] Rock On! (untradable)
+- Nessie
+  - [ ] Loch Ness
+  - [ ] Reely Good Time
+  - [ ] Magnessiecent
+  - [ ] What's that?
+  - [ ] The Scoop
+  - [ ] Adventure Time
+  - [ ] Gotcha!
+  - [ ] Hello There
+  - [ ] Happiness (untradable)
+- Bermuda Triangle
+  - [ ] Hearties
+  - [ ] Blimey!
+  - [ ] Treasure Hunt
+  - [ ] Land in Sight!
+  - [ ] Abandon Ship!
+  - [ ] Plunderful
+  - [ ] Coming Ashore
+  - [ ] Oh My Gems
+  - [ ] Big Booty (untradable)
+- Lizard Man
+  - [ ] In the Making
+  - [ ] BOOMerang!
+  - [ ] WOW
+  - [ ] Oopsie!
+  - [ ] Throw and Catch
+  - [ ] Wanted!
+  - [ ] Desert Dust
+  - [ ] Silhouette Night
+  - [ ] Mount Ularu (untradable)
+- Midas' Touch
+  - [ ] Not Good Enough
+  - [ ] Small Favour
+  - [ ] Golden Wish
+  - [ ] Showtime
+  - [ ] Midas' Touch
+  - [ ] Sleep in Gold
+  - [ ] Liquid Gold
+  - [ ] Golden Bounty
+  - [ ] Frustration (untradable)
+- Sasquatch
+  - [ ] Hairy Baby
+  - [ ] Big Toys!
+  - [ ] Splashsquatch
+  - [ ] Stay Curious
+  - [ ] Wilderness!
+  - [ ] Night Binge
+  - [ ] Shake It!
+  - [ ] Classy Gift
+  - [ ] Good Memories (untradable)
+- Acalica
+  - [ ] Fairy Tale
+  - [ ] Enchanting
+  - [ ] Field Study
+  - [ ] Weather-fairy
+  - [ ] Make It Rain
+  - [ ] Superhot
+  - [ ] Not a Fan
+  - [ ] Gotcha!
+  - [ ] Discovery (untradable)
+- Hua Mulan
+  - [ ] Duty Calls
+  - [ ] Disguise
+  - [ ] Partners
+  - [ ] Show The Way
+  - [ ] Roger that!
+  - [ ] Lookin' Sharp
+  - [ ] Danger Ahead
+  - [ ] Moment of Truth
+  - [ ] Great Honor (untradable)
